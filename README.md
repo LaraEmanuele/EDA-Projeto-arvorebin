@@ -26,11 +26,11 @@ Construção de uma árvore binária de busca de produtos cadastrados em um banc
 Prazo total: 2 meses*
 
 ### Atividades Versão 0.0 (Criar o git do projeto)
-- [ ] Criar conta no GitHub
-- [ ] Criar o projeto no repositório
-- [ ] Preparar o READ.me 
-- [ ] Planejamento das atividades
-- [ ] Familiazar com o funcionamento do git
+- [x] Criar conta no GitHub
+- [x] Criar o projeto no repositório
+- [x] Preparar o READ.me 
+- [x] Planejamento das atividades
+- [x] Familiazar com o funcionamento do git
 - Tempo previsto: 1 dia.
 
 ### Atividades Versão 1.0 (foco no cadastro de usuário)
